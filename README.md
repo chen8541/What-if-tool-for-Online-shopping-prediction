@@ -1,1 +1,1 @@
-# What-if-tool-for-Online-shopping-prediction
+# What-if-tool for Online shopping prediction
